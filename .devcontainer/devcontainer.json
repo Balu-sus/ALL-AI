@@ -1,0 +1,7 @@
+{
+  "name": "ALL-AI Environment",
+  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "hostRequirements": {
+    "storage": "64gb"
+  }
+}
