@@ -1,0 +1,9 @@
+ollama
+torch
+diffusers
+transformers
+accelerate
+reportlab
+fastapi
+uvicorn
+pydantic
